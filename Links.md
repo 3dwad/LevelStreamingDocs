@@ -15,6 +15,10 @@ https://dev.epicgames.com/community/learning/talks-and-demos/0zx9/unreal-engine-
 
 # Episode 2
 
+## CSV Tools And PerReportTool In Details
+
+https://malikasthings.notion.site/Fast-Profiling-CSV-Tools-2f6c8a2771a980db9d2ef5939bfbd28f
+
 ## Script To Run Automated Performance Test From Build
 
 https://github.com/3dwad/LevelStreamingDocs/blob/main/RunOnlyPefTest.bat

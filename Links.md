@@ -12,3 +12,9 @@ https://www.fab.com/listings/c05aac82-4c1a-4e42-96b3-be668dc40fca?lang=en
 ## Automated Performance Testing Plugin
 
 https://dev.epicgames.com/community/learning/talks-and-demos/0zx9/unreal-engine-a-tech-artist-s-guide-to-automated-performance-testing-unreal-fest-bali-2025
+
+# Episode 2
+
+## Script To Run Automated Performance Test From Build
+
+https://github.com/3dwad/LevelStreamingDocs/blob/main/RunOnlyPefTest.bat
